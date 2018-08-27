@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.oist.unit.ios</groupId>
+  <artifactId>solarsystemlib</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180827042608</lastUpdated>
+  </versioning>
+</metadata>
