@@ -2,7 +2,7 @@
 <metadata>
   <groupId>jp.oist.unit.ios</groupId>
   <artifactId>solarsystemlib</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <versioning>
     <snapshot>
       <timestamp>20180827.042608</timestamp>
